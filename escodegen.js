@@ -36,8 +36,8 @@
 
 import * as estraverse from 'estraverse';
 import * as esutils from 'esutils';
-// TODO - wait until rollup supports import attributes
-// https://github.com/rollup/rollup/issues/4818
+// TODO - wait until rollup supports import attributes at least
+// https://github.com/ProjectEvergreen/escodegen-esm/issues/2
 // import packageJson from './package.json' assert { type: 'json' };
 
 /*global exports:true, require:true, global:true*/
