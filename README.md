@@ -25,7 +25,7 @@ escodegen.browser.js can be found in tagged revisions on GitHub.
 
 Or in a Node.js application via npm:
 
-    npm install escodegen-esm
+    npm install @projectevergreen/escodegen-esm
 
 ### Usage
 
