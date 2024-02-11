@@ -1,8 +1,11 @@
 {
-    "name": "escodegen-esm",
+    "name": "@projectevergreen/escodegen-esm",
     "description": "ECMAScript code generator",
     "homepage": "http://github.com/ProjectEvergreen/escodegen-esm",
     "type": "module",
+    "publishConfig": {
+      "access": "public"
+    },
     "exports": {
       ".": "./escodegen.js"
     },
